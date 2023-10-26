@@ -1,0 +1,8 @@
+Recursion 
+when method call in main function call stack is created.
+
+Base Case : 
+this is important concept in recursion as it works as loop in working and if it dont have base case it will produce problem of stack overflow.
+
+Stack Overflow :
+this is the condition where call stack is get full and no memory remain for future operations.

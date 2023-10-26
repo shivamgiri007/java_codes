@@ -1,4 +1,4 @@
-public class Factorial {
+        public class Factorial {
     public static int findFactorial(int a){
         if(a==1){
             return a;
