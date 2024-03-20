@@ -19,7 +19,7 @@ public class AcessModifiers {
 class BankAccount{
     public String username;
     private String password;
-    String password(){
+    public String password(){
         return this.password;
     }
     public void setPass(String pass){
